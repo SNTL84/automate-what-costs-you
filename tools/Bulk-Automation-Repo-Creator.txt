@@ -1,0 +1,48 @@
+# Bulk Automation Repo Creator — Playbook by Milan · SNTL 84
+# GitHub Badge Unlocking Roadmap
+# Full reference guide for repo credibility building
+
+## Goal
+Push files in a clean professional way AND unlock GitHub Achievement badges:
+Quickdraw, YOLO, Pull Shark, Pair Extraordinaire, Starstruck
+
+## STEP 2 — First Commit
+Push both HTML files with a strong README.
+Commit message: Initial commit: Added WhatsApp + Aratt.ai automation blaster tools
+
+## STEP 3 — Unlock Quickdraw ⚡
+- Open a new Issue titled: test issue
+- Close it within 5 minutes
+
+## STEP 4 — Unlock YOLO 😎
+- Create branch: feature-update
+- Edit README.md
+- Create PR → Merge WITHOUT review
+
+## STEP 5 — Unlock Pull Shark 🦈
+- Create branch: readme-improvements
+- Another README improvement
+- Create second PR → Merge
+
+## STEP 6 — Unlock Pair Extraordinaire 👯
+git commit -m "Improved README and UI notes
+
+Co-authored-by: Friend Name <friend@email.com>"
+- Push branch → Open PR → Merge PR
+
+## STEP 7 — Improve Starstruck ⭐
+- Share repo on LinkedIn
+- Share in dev groups
+- Share with startup founders
+- Need 16+ stars for bronze
+
+## STEP 8 — Keep Repo Active
+- Better README, screenshots, demo GIF
+- Usage guide, version notes, improvements log
+
+## Badge Order
+Quickdraw → YOLO → Pull Shark → Pair Extraordinaire → Starstruck
+
+No fake badge generators. Only real GitHub actions count.
+
+© 2026 Milan · SNTL 84 · desidevloper.com
