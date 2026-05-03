@@ -34,8 +34,8 @@ I build automation systems that save founders hours every week — from intellig
 
 | Tool | Description | Status |
 |------|-------------|--------|
-| `github_follower_audit.html` | AI-scored GitHub follower audit tool — ranks followers by activity, bio signals, tech stack & location | ✅ Live |
-| `Bulk-Automation-Repo-Creator.txt` | Full automation playbook for GitHub badge unlocking + repo credibility building | ✅ Reference |
+| `tools/github_follower_audit.html` | AI-scored GitHub follower audit — ranks followers by activity, bio, tech stack & location | ✅ Live |
+| `tools/Bulk-Automation-Repo-Creator.txt` | Full automation playbook for GitHub badge unlocking + repo credibility | ✅ Reference |
 
 ---
 
@@ -52,10 +52,10 @@ I build automation systems that save founders hours every week — from intellig
 ```
 
 **How to use:**
-1. Download `github_follower_audit.html`
-2. Open in browser
-3. Generate a free GitHub token at [github.com/settings/tokens](https://github.com/settings/tokens) → `read:user` only
-4. Paste token → Run audit → Get ranked results
+1. Open `tools/github_follower_audit.html` in your browser
+2. Generate a free GitHub token → [github.com/settings/tokens](https://github.com/settings/tokens) → `read:user` only
+3. Paste token → Run audit → Get ranked follower list
+4. Use results to target real engaged collaborators
 
 ---
 
@@ -67,7 +67,7 @@ Every manual task is a tax on your growth.
 Automate it. Scale it. Ship it.
 ```
 
-This repo represents a **live, growing toolkit** — production-grade tools used in real freelance and SaaS workflows.
+This repo is a **live, growing toolkit** — production-grade tools built for real freelance and SaaS workflows.
 
 ---
 
@@ -76,10 +76,10 @@ This repo represents a **live, growing toolkit** — production-grade tools used
 I'm open to:
 - 🤝 **Technical Collaborations** — AI tools, bots, workflow builders
 - 💼 **Freelance Projects** — Automation, full-stack, BI dashboards
-- 📣 **Affiliate / Sponsor partnerships** — Tools I actually use
+- 📣 **Affiliate / Sponsor partnerships** — Tools I actually use and believe in
 - 🧠 **Consulting** — Helping founders automate their bottlenecks
 
-**Response within 24 hours guaranteed.**
+> **Response within 24 hours guaranteed.**
 
 ---
 
@@ -110,7 +110,7 @@ I'm open to:
 
 ## 🏆 Achievement Roadmap
 
-- ⚡ **Quickdraw** — Close issue within 5 min of creation
+- ⚡ **Quickdraw** — Close issue within 5 min of creation ✅
 - 😎 **YOLO** — Merge PR without review
 - 🦈 **Pull Shark** — 2+ merged PRs
 - 👯 **Pair Extraordinaire** — Co-authored commit merged
