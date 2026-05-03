@@ -111,10 +111,10 @@ I'm open to:
 ## 🏆 Achievement Roadmap
 
 - ⚡ **Quickdraw** — Close issue within 5 min of creation ✅
-- 😎 **YOLO** — Merge PR without review
-- 🦈 **Pull Shark** — 2+ merged PRs
-- 👯 **Pair Extraordinaire** — Co-authored commit merged
-- ⭐ **Starstruck** — 16+ stars on repo
+- 😎 **YOLO** — Merge PR without review ✅
+- 🦈 **Pull Shark** — 2+ merged PRs ✅ (in progress)
+- 👯 **Pair Extraordinaire** — Co-authored commit merged ✅ (in progress)
+- ⭐ **Starstruck** — 16+ stars on repo ⏳ needs community
 
 ---
 
