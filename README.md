@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SNTL2784-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sntl2784)
 [![GitHub](https://img.shields.io/badge/GitHub-SNTL84-black?style=for-the-badge&logo=github)](https://github.com/SNTL84)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/919727413309)
+[![Instagram](https://img.shields.io/badge/Instagram-@desibiztrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desibiztrade/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SNTL84&color=blueviolet&style=for-the-badge)
 
@@ -91,6 +92,7 @@ I'm open to:
 | 💬 WhatsApp | [wa.me/919727413309](https://wa.me/919727413309) |
 | 🔗 LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
 | 💻 GitHub | [github.com/SNTL84](https://github.com/SNTL84) |
+| 📸 Instagram | [@desibiztrade](https://www.instagram.com/desibiztrade/) |
 | 🤖 Aratt.ai | [aratt.ai/user/@desidevloper](https://aratt.ai/user/@desidevloper) |
 | 📧 Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
 
